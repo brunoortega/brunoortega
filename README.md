@@ -7,6 +7,12 @@ Have got digital marketing and design skills, worked using Arduino at Formula SA
 One of my goals are to speak japanese properly and live at Japan for a while, working at a good company in a loving job!
 
 
+LinkedIn: linkedin.com/in/bruno-ortega-597198ab
+Facebook: https://www.facebook.com/bruno.ortega.1610
+E-mail: brunoortega11@gmail.com
+Phone: +55 (11)94440-6374
+
+
 <!--
 **brunoortega/brunoortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

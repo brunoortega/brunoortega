@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hello there! 👋
 
 I'm a Electrical Engineering student, born in 1997. <br/>
-Actually learning webdevelopment (Javascript, Node.js, React.js, React Native), very interested at AI and game development as well. <br/>
-Have got digital marketing and design skills, worked using Arduino at Formula SAE Electric UFSCar team, worked at SIEEL (ELectrical Engineering Integrative Week), organized by UFSCar and USP - São Carlos EE students. <br/>
+Javascript and ReactJS <3, very interested at UX/UI, designing, AI and game development as well (I'm about to start studying these someday xD). <br/>
+Knowledge in Python, C, C#, Java, Javascript, ReactJS, NodeJS, Angular* and Typescript* (* = learning kkkkkk). <br/>
+Acquired marketing, digital marketing and design skills, worked using Arduino at Formula SAE Electric UFSCar team, worked at SIEEL (ELectrical Engineering Integrative Week) as Marketing Director, organized by UFSCar and USP - São Carlos EE students. <br/>
+
 <br/>
-One of my goals are to speak japanese properly and live at Japan for a while, working at a good company in a loving job! <br/>
+Some of my goals are to speak japanese properly and live at Japan for a while, take a gastronomy course, travel around the world, learn about cultures and live comfortably.<br/>
 <br/>
 <br/>
-LinkedIn: linkedin.com/in/bruno-ortega-597198ab<br/>
+LinkedIn: https://www.linkedin.com/in/bruno-ortega-597198ab<br/>
 Facebook: https://www.facebook.com/bruno.ortega.1610<br/>
 E-mail: brunoortega11@gmail.com<br/>
 Phone: +55 (11)94440-6374

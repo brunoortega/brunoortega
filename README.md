@@ -10,9 +10,9 @@ Some of my goals are to speak japanese properly and live at Japan for a while, t
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brunoortega&theme=apprentice"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brunoortega&theme=dark"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoortega&layout=compact&theme=apprentice"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoortega&layout=compact&theme=dark"/>
 </div>
 
 <br/>

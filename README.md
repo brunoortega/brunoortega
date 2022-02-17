@@ -9,6 +9,7 @@ Acquired marketing, digital marketing and design skills, worked using Arduino at
 Some of my goals are to speak japanese properly and live at Japan for a while, take a gastronomy course, travel around the world, learn about cultures and live comfortably.<br/>
 <br/>
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoortega)](https://github.com/anuraghazra/github-readme-stats)
 LinkedIn: https://www.linkedin.com/in/bruno-ortega-597198ab<br/>
 Facebook: https://www.facebook.com/bruno.ortega.1610<br/>
 E-mail: brunoortega11@gmail.com<br/>

@@ -16,12 +16,11 @@ Some of my goals are to speak japanese properly and live at Japan for a while, t
 </div>
 
 <br/>
-LinkedIn: https://www.linkedin.com/in/bruno-ortega-597198ab<br/>
 Facebook: https://www.facebook.com/bruno.ortega.1610<br/>
 E-mail: brunoortega11@gmail.com<br/>
 Phone: +55 (11)94440-6374
 
-
+  ![Snake animation](https://github.com/brunoortega/brunoortega/blob/output/github-contribution-grid-snake.svg)
 <!--
 **brunoortega/brunoortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

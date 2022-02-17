@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
 I'm a Electrical Engineering student, born in 1997. <br/>
-Javascript and ReactJS <3, very interested at UX/UI, designing, AI and game development as well (I'm about to start studying these someday xD). <br/>
-Knowledge in Python, C, C#, Java, Javascript, ReactJS, NodeJS, Angular* and Typescript* (* = learning kkkkkk). <br/>
+Javascript and ReactJS <3, very interested at UX/UI, designing, AI and game development as well. <br/>
+Knowledge in Python, C, C#, Java, Javascript, ReactJS, NodeJS, Angular, Typescript* (* = learning). <br/>
 Acquired marketing, digital marketing and design skills, worked using Arduino at Formula SAE Electric UFSCar team, worked at SIEEL (ELectrical Engineering Integrative Week) as Marketing Director, organized by UFSCar and USP - São Carlos EE students. <br/>
 
 <br/>
